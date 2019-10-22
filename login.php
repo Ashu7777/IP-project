@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>//hi prakash i am from se it b
 <!--
 Template Name: Drywest
 Author: <a href="https://www.os-templates.com/">OS Templates</a>
